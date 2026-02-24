@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Aastha, a 3rd Year CSE (Cyber Security) student at National Forensic Sciences University, Gandhinagar, with a strong interest in cybersecurity.   
 
-<!--
-**aasthashah425/aasthashah425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+##SKILLS
+---
 
-Here are some ideas to get you started:
+Languages Learned: 
+C, C++, C#, Python, Java, JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools: 
+Wireshark, Nmap, CyberChef  
+
+Core Areas: 
+Computer Networks, Cryptography, Cybersecurity Fundamentals  
+
+---
+##PROJECTS
+---
+
+1. Autonomous Serverless Defence System (AWS):
+
+EDoS attack detection and mitigation using AWS services like Lambda, API Gateway and WAF.
+
+2. Security Header Analyzer (Python):
+Tool to analyze HTTP security headers and identify common vulnerabilities.
+
+3. Mobile Forensics Application:  
+Extracted Android data using ADB and built a C# application with SQL Server for analysis.
+
+---
+##CONTACT
+---
+Email: shahaastha425@gmail.com
+LinkedIn: linkedin.com/in/aastha-shah-b16961380
