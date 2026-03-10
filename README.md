@@ -4,11 +4,11 @@ Hi, I'm Aastha, a 3rd Year CSE (Cyber Security) student at National Forensic Sci
 SKILLS
 ---
 
-Languages Learned:   
-C, C++, C#, Python, Java, JavaScript  
+Programming Languages:   
+C++, Python, JavaScript  
 
 Tools:   
-Wireshark, Nmap, CyberChef  
+Wireshark, Nmap
 
 Core Areas:   
 Computer Networks, Cryptography, Cybersecurity Fundamentals  
